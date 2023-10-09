@@ -1,0 +1,41 @@
+/* *{
+     padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+} */
+body{
+    background-repeat: no-repeat;
+    width: 600px;
+}
+.navbar{
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+    
+    background-color: black;
+    /* transition: 0,4s; */
+    
+
+
+}
+ul li a{
+    color: white;
+}
+
+.nav-link{
+    font-size: 1.25em;
+}
+.nav-link:active,.nav-link:hover{
+    background-color: gray;
+}
+.imge{
+   
+}
+
+
+
+    
+
+    
+   
+ 
